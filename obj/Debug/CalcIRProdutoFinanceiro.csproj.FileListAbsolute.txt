@@ -1,0 +1,7 @@
+C:\Users\Oliveiras House\source\repos\CSharp\CalcIRProdutoFinanceiro\obj\Debug\CalcIRProdutoFinanceiro.csproj.AssemblyReference.cache
+C:\Users\Oliveiras House\source\repos\CSharp\CalcIRProdutoFinanceiro\obj\Debug\CalcIRProdutoFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\Oliveiras House\source\repos\CSharp\CalcIRProdutoFinanceiro\bin\Debug\CalcIRProdutoFinanceiro.exe.config
+C:\Users\Oliveiras House\source\repos\CSharp\CalcIRProdutoFinanceiro\bin\Debug\CalcIRProdutoFinanceiro.exe
+C:\Users\Oliveiras House\source\repos\CSharp\CalcIRProdutoFinanceiro\bin\Debug\CalcIRProdutoFinanceiro.pdb
+C:\Users\Oliveiras House\source\repos\CSharp\CalcIRProdutoFinanceiro\obj\Debug\CalcIRProdutoFinanceiro.exe
+C:\Users\Oliveiras House\source\repos\CSharp\CalcIRProdutoFinanceiro\obj\Debug\CalcIRProdutoFinanceiro.pdb
